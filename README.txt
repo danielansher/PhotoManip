@@ -1,5 +1,4 @@
 Daniel Ansher
-danielansher@gmail.com
 Java Version 8.0_74
 
 [Multiple Photos w/ Animation Not Supported]
